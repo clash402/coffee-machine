@@ -1,7 +1,7 @@
 # Coffee Machine
 
 ## Summary
-Order a nice hot (or cold) cup of coffee! [Try it out]()
+Order a nice hot (or cold) cup of coffee! [Try it out](https://repl.it/@clash402/coffee-machine)
 
 ## Instructions
 - Tap the Run button
